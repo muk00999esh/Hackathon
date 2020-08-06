@@ -1,4 +1,4 @@
-claimid,diagnosis,diagdesc,memeberid,pid
+claimid,diagnosis,memeberid,pid
 101,201,301,401
 102,201,302,402
 103,201,303,401
